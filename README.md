@@ -50,7 +50,7 @@ This is a web application for a company that provides commercial and scientific 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Live-Demo
-> Here is a link (https://yetemegn-telaye.github.io/Space-travelers-hub/) to the live page.
+> Here is a link (https://blase147.github.io/Space-travelers-hub/) to the live page.
 
 
 
