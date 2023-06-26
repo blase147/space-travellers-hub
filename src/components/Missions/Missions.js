@@ -23,7 +23,7 @@ const Missions = () => {
             <td>Name</td>
             <td>Description</td>
             <td>Status</td>
-            <td />
+            <td> Action</td>
           </tr>
           {
           missionsArr.map((mission) => (
